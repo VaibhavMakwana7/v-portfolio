@@ -1,0 +1,130 @@
+{
+    "basic_info": {
+      "name": "Vaibhav Makwana",
+      "titles": [ "GIS Analyst", "GIS Programmer", "Drone Pilot" ],
+      "social": [
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/vaibhav26/",
+          "class": "fab fa-linkedin-in"
+        },
+        {
+          "name": "email",
+          "url": "mailto:makwanavaibhav7@gmail.com",
+          "class": "fa fa-envelope"
+        }
+        ,
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/warryyyyyy/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.png",
+      "ArcGIS": "ArcGIS_Pro.png",
+      "Python": "Python.png",
+      "QGIS": "Qgis.png",
+      "lightmap": "lightmaplow.jpg",
+      "darkmap": "darkmaplow.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML-5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "MS SQL",
+          "class": "devicon-microsoftsqlserver-plain",
+          "level": "60"
+        },
+        {
+          "name": "Blender",
+          "class": "devicon-blender-original",
+          "level": "60"
+        },
+        {
+          "name": "VS Code",
+          "class": "devicon-vscode-plain",
+          "level": "60"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "60"
+        }   
+      ],
+      "imgs": [
+        {
+          "type":"img",
+          "class": "ArcGIS_Pro_white.png",
+          "name": "ArcGIS Pro"
+        },
+        {
+          "type":"img",
+          "class": "Qgis_white.png",
+          "name": "QGIS"
+        },
+        {
+          "type":"img",
+          "class": "Arcmap_white.png",
+          "name": "Arc Map"
+        },
+        {
+          "type":"img",
+          "class": "cloudcompare_white.png",
+          "name": "CloudCompare"
+        },
+        {
+          "type":"img",
+          "class": "betaflight_white.png",
+          "name": "Betaflight"
+        },
+        {
+          "type":"img",
+          "class": "emlidflow.png",
+          "name": "Emlidflow"
+        },
+        {
+          "type":"img",
+          "class": "Gaussian_white.png",
+          "name": "Gaussian"
+        },
+        {
+          "type":"img",
+          "class": "arcgis_field_white.png",
+          "name": "Field Maps"
+        },
+        {
+          "type":"img",
+          "class": "Pix4D_white.png",
+          "name": "Pix4D"
+        }]
+    }
+  }
