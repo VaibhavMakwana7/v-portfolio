@@ -1,0 +1,245 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Vaibhav Makwana. I'm an ambitious GIS professional with a strong foundation in ArcGIS, Python, C#, Javascript and SQL. I also hold a basic drone flight certificate and ROC-A certificate which allows me to communicate over aviation frequency. I believe my strong side is problem solving whether its a programming problem or a hardware problem, solving problems is my favourite part of any job. On my free time I love to code and learn about new technologies, recently I built my own custom computer by researching various parts to optimise and build a perfect setup for my day to day tasks. This website is one of my side projects to learn web development, Thank you for visiting! and Please feel free to contact me through email or linkedin!",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience",
+        "education": "Education"
+      }
+    },
+    "projects": [
+      {
+        "title": "Aquafor",
+        "startDate": "2023 - Present",
+        "description": "As a Co-op student and now as a full-time employee on a contract at Aquafor Beech Ltd, I have worked on 50+ projects. My primary job as a GIS Analyst is to analyze data, create figures, and work on ArcGIS Modelbuilder to perform complex analysis on huge datasets. Using the ArcHydro set of tools, I have worked on multiple Watershed delineation projects, Floodplain mapping, and Hydrological modelling. I have learnt countless new techniques and tools to perform my job more efficiently.",
+        "images": [
+          "images/portfolio/2023_present/Aquaforlow.jpg",
+          "images/portfolio/2023_present/Aquafor1.jpg"
+        ],
+        "url": "https://www.aquaforbeech.com/",
+        "technologies": [
+          {
+            "type":"img",
+            "class": "ArcGIS_Pro.png",
+            "name": "ArcGIS Pro"
+          },
+          {
+            "type":"img",
+            "class": "Qgis.png",
+            "name": "QGIS"
+          },
+          {
+            "type":"img",
+            "class": "Python.png",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "GIS",
+        "startDate": "2022 - 2023",
+        "description": "During the second year of my studies at Fanshawe College, I worked on vast applications of GIS(Geographic Information Systems) technology with the use of industry-standard software such as ArcGIS Pro, Qgis and Microsoft SQL server. My work included making cartographically correct figures, analyzing raster and vector data, creating geodatabases and working with spatial data. I also worked on a project where I created a web map using ArcGIS Online and ArcGIS API for JavaScript. By the end of my course at Fanshawe college, I got a Co-op opportunity at Aquafor Beech Ltd.",
+        "images": [
+          "images/portfolio/2022_2023/NS_Map1.jpg",
+          "images/portfolio/2022_2023/Work_4.jpg",
+          "images/portfolio/2022_2023/Work_2.jpg",
+          "images/portfolio/2022_2023/Work_3.jpg",
+          "images/portfolio/2022_2023/Work_7.jpg",
+          "images/portfolio/2022_2023/Work_6.jpg",
+          "images/portfolio/2022_2023/Work_8.jpg"
+          
+        ],
+        "url": "https://arcg.is/1rKrmG",
+        "technologies": [
+          {
+            "type":"img",
+            "class": "ArcGIS_Pro.png",
+            "name": "ArcGIS Pro"
+          },
+          {
+            "type":"img",
+            "class": "arcgis_field.png",
+            "name": "Field Maps"
+          },
+          {
+            "type":"img",
+            "class": "Qgis.png",
+            "name": "QGIS"
+          },
+          {
+            "type":"img",
+            "class": "Python.png",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "RPAS",
+        "startDate": "2022",
+        "description": "During my studies at Fanshawe College, I learnt to build a drone from scratch, program it using Betaflight and fly it responsibly. We used drones to collect raster imagery with GPS data using survey equipment and the RTK system on the drone. I was also a part of a research study which led to a case-study paper. I also learnt to analyze captured data such as LiDAR, Raster and Thermal data on various software such as Pix4D and CloudCompare.",
+        "images": [
+          "images/portfolio/2022/Drone1.jpg",
+          "images/portfolio/2022/betaflightlow.jpg",
+          "images/portfolio/2022/inspirelow.jpg",
+          "images/portfolio/2022/RTKlow.jpg",
+          "images/portfolio/2022/M350low.jpg",
+          "images/portfolio/2022/Pix4Dlow.jpg",
+          "images/portfolio/2022/CloudComparelow.jpg",
+          "images/portfolio/2022/Transcriptlow.jpg",
+          "images/portfolio/2022/casestudylow.jpg"
+        ],
+        "url": "https://www.fanshawelibrary.com/wp-content/uploads/Virtual%20Exhibits/Drones/Good%20Roads%20CSCE%202024%20Paper%20%28002%29.pdf",
+        "technologies": [
+          {
+            "type":"img",
+            "class": "Pix4D.png",
+            "name": "Pix4D"
+          },
+          {
+            "type":"img",
+            "class": "cloudcompare.png",
+            "name": "CloudCompare"
+          },
+          {
+            "type":"img",
+            "class": "betaflight.png",
+            "name": "Betaflight"
+          },
+          {
+            "type":"img",
+            "class": "emlidflow.png",
+            "name": "Emlidflow"
+          },
+          {
+            "type":"img",
+            "class": "Python.png",
+            "name": "Python"
+          },
+          {
+            "type":"img",
+            "class": "dji.png",
+            "name": "DJI"
+          }
+          
+        ]
+      },
+      {
+        "title": "Thesis",
+        "startDate": "2017 - 2022",
+        "description": "My thesis was about investigating Cadmium chalcogenides for their properties based on Gaussian simulation, where a compute-intensive workflow is devised to iterate the molecule structure and simulate the properties of the molecule. The project was developed using Gaussian software and Python scripts.",
+        "images": [
+          "images/portfolio/2017_2022/thesislow.jpg",
+          "images/portfolio/2017_2022/cd.jpg"
+        ],
+        "url": "https://svnitopac.libsys10.in/",
+        "technologies": [
+          {
+            "type":"img",
+            "class": "Python.png",
+            "name": "Python"
+          },
+          {
+            "type":"img",
+            "class": "Gaussian.png",
+            "name": "Gaussian"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "badgeicon": "ArcGIS_Pro_white.png",
+        "company": "Aquafor Beech Ltd",
+        "title": "GIS Analyst",
+        "years": "09.2023 - present",
+        "mainTech": [
+          "Fulltime - Contract"
+        ],
+        "technologies": [
+          "Map Figure Layouts",
+          "Python Scripting",
+          "ArcGIS Model builder",
+          "ArcHydro",
+          "Raster Analysis",
+          "LiDAR data processing",
+          "Geodatabase query",
+          "Spatial Analysis",
+          "3D Surface Modeling"
+        ]
+      },
+      {
+        "badgeicon": "ArcGIS_Pro_white.png",
+        "company": "Aquafor Beech Ltd",
+        "title": "Co-op Intern",
+        "years": "05.2023 - 09.2023",
+        "mainTech": [
+          "4 Month Co-op"
+        ],
+        "technologies": [
+          "Map Figure Layouts",
+          "Basic ArcGIS Pro",
+          "ArcHydro",
+          "Raster Analysis"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "badgeicon": "Arcmap_white.png",
+        "company": "Fanshawe College",
+        "title": "Geographic Information Systems",
+        "years": "09.2022 - 05.2023",
+        "mainTech": [
+          "Graduate Certificate"
+        ],
+        "technologies": [
+          "ArcGIS Pro Desktop and ArcGIS Online",
+          "QGIS",
+          "SQL Database Management and querying",
+          "Spatial SQL introduction",
+          "Dot Net Programming",
+          "Raster Analysis",
+          "cartographic figure creation",
+          "Python Programming"
+        ]
+      },
+      {
+        "badgeicon": "Drone_img_white.png",
+        "company": "Fanshawe College",
+        "title": "Remotely Piloted Aerial Systems Commercial Operations",
+        "years": "01.2022 - 09.2022",
+        "mainTech": [
+          "Graduate Certificate"
+        ],
+        "technologies": [
+          "Basic Drone Flight Cerificate - Transport Canada",
+          "ROC-A Cerificate - Transport Canada",
+          "DJI Drones Inspire and M350 hands on experience",
+          "FPV Drone building and flying from scratch",
+          "DJI Tello Programming - YOLO AI Model",
+          "Pix4D",
+          "Computer Vision",
+          "Case Study Reasearch Paper"
+        ]
+      },
+      {
+        "badgeicon": "molecule_white.png",
+        "company": "Sardar Vallabhbhai National Institute of Technology",
+        "title": "Integrated Masters in Physics",
+        "years": "05.2017 - 05.2021",
+        "mainTech": [
+          "B.Sc. and M.Sc Physics"
+        ],
+        "technologies": [
+          "Investigation of Cadmium Chalcogenides - Master's Thesis",
+          "Gaussian Simulation",
+          "Microcontrollers and Microprocessors",
+          "Material Pysics",
+          "Advanced Quantum Mechanics"
+        ]
+      }
+    ]
+  }
