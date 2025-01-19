@@ -1,5 +1,5 @@
-@import '../src/scss/themes/theme-dark.scss';
-@import '../src/scss/themes/theme-light.scss';
+@import './src/scss/themes/theme-dark.scss';
+@import './src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
 
 html {
@@ -41,7 +41,7 @@ header {
 	text-align: center;
 	overflow: hidden;
 	background-color: #4b4b4b;
-	background-image: url('/images/Map/lightmaplow.jpg');
+	background-image: url('../public/images/Map/lightmaplow.jpg');
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
