@@ -16,8 +16,7 @@
         "startDate": "2023 - Present",
         "description": "As a Co-op student and now as a full-time employee on a contract at Aquafor Beech Ltd, I have worked on 50+ projects. My primary job as a GIS Analyst is to analyze data, create figures, and work on ArcGIS Modelbuilder to perform complex analysis on huge datasets. Using the ArcHydro set of tools, I have worked on multiple Watershed delineation projects, Floodplain mapping, and Hydrological modelling. I have learnt countless new techniques and tools to perform my job more efficiently.",
         "images": ["https://raw.githubusercontent.com/VaibhavMakwana7/v-portfolio/refs/heads/main1/public/images/portfolio/2023_present/aquaforlow.jpg",
-          "images/portfolio/2023_present/Aquaforlow.jpg",
-          "images/portfolio/2023_present/Aquafor1.jpg"
+          "https://raw.githubusercontent.com/VaibhavMakwana7/v-portfolio/refs/heads/main1/public/images/portfolio/2023_present/Aquafor1.jpg"
         ],
         "url": "https://www.aquaforbeech.com/",
         "technologies": [
@@ -44,12 +43,12 @@
         "description": "During the second year of my studies at Fanshawe College, I worked on vast applications of GIS(Geographic Information Systems) technology with the use of industry-standard software such as ArcGIS Pro, Qgis and Microsoft SQL server. My work included making cartographically correct figures, analyzing raster and vector data, creating geodatabases and working with spatial data. I also worked on a project where I created a web map using ArcGIS Online and ArcGIS API for JavaScript. By the end of my course at Fanshawe college, I got a Co-op opportunity at Aquafor Beech Ltd.",
         "images": [
           "images/portfolio/2022_2023/NS_Map1.jpg",
-          "images/portfolio/2022_2023/Work_4.jpg",
-          "images/portfolio/2022_2023/Work_2low.jpg",
-          "images/portfolio/2022_2023/Work_3.jpg",
-          "images/portfolio/2022_2023/Work_7.jpg",
-          "images/portfolio/2022_2023/Work_6.jpg",
-          "images/portfolio/2022_2023/Work_8.jpg"
+          "https://raw.githubusercontent.com/VaibhavMakwana7/v-portfolio/refs/heads/main1/public/images/portfolio/2022_2023/Work_4.jpg",
+          "https://raw.githubusercontent.com/VaibhavMakwana7/v-portfolio/refs/heads/main1/public/images/portfolio/2022_2023/Work_2low.jpg",
+          "https://raw.githubusercontent.com/VaibhavMakwana7/v-portfolio/refs/heads/main1/public/images/portfolio/2022_2023/Work_3.jpg",
+          "https://raw.githubusercontent.com/VaibhavMakwana7/v-portfolio/refs/heads/main1/public/images/portfolio/2022_2023/Work_7.jpg",
+          "https://raw.githubusercontent.com/VaibhavMakwana7/v-portfolio/refs/heads/main1/public/images/portfolio/2022_2023/Work_6.jpg",
+          "https://raw.githubusercontent.com/VaibhavMakwana7/v-portfolio/refs/heads/main1/public/images/portfolio/2022_2023/Work_8.jpg"
           
         ],
         "url": "https://arcg.is/1rKrmG",
